@@ -1,0 +1,17 @@
+/* ---------- 登录页专用 · 工程化标准 ---------- */
+:root {
+  /* 登录页背景 */
+  --login-bg: #F9FAFB;
+  --login-bg-gradient: linear-gradient(135deg, #F9FAFB 0%, #F3F4F6 100%);
+
+  /* 登录卡片 */
+  --login-card-width: 440px;
+  --login-card-padding: 32px;
+  --login-card-radius: 12px;
+  --login-card-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
+
+  /* 登录表单间距 */
+  --login-form-gap: 16px;
+  --login-input-height: 40px;
+  --login-btn-height: 44px;
+}
