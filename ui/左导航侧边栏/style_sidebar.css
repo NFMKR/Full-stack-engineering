@@ -1,0 +1,22 @@
+/* ---------- 左侧边栏 · 工程化标准 ---------- */
+:root {
+  --sidebar-width: 220px;
+  --sidebar-width-collapsed: 64px;
+  --sidebar-bg: #ffffff;
+  --sidebar-border: #e5e7eb;
+  --sidebar-radius: 0 8px 8px 0;
+  --sidebar-shadow: 2px 0 8px rgba(0, 0, 0, 0.04);
+
+  --sidebar-item-height: 44px;
+  --sidebar-item-radius: 6px;
+  --sidebar-item-gap: 4px;
+  --sidebar-item-padding: 0 12px;
+
+  --sidebar-text-color: #374151;
+  --sidebar-text-active: #dc2626;
+  --sidebar-bg-hover: #fef2f2;
+  --sidebar-bg-active: #fef2f2;
+
+  --sidebar-logo-height: 56px;
+  --sidebar-padding: 12px;
+}
